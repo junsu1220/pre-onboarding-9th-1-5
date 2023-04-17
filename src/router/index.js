@@ -31,5 +31,5 @@ const routes = [
 ];
 
 export const router = createBrowserRouter(routes, {
-  basename: '/wanted-pre-onboarding-frontend-week1',
+  basename: '/pre-onboarding-9th-1-5',
 });
